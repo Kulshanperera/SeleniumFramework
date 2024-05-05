@@ -1,2 +1,2 @@
 # SeleniumFramework
-Simple Framework Created using page object design pattern
+Simple Framework Created with page object design pattern
