@@ -13,7 +13,7 @@ Simple Framework Created with page object design pattern, and TestNG.<br>
 * Retry the test case if it's failed at first time<br>
 ![image](https://github.com/Kulshanperera/SeleniumFramework/assets/47887463/672bef00-e396-4012-aacb-71626cfa2bb6)
 
-[Click here to check the code](https://github.com/Kulshanperera/SeleniumFramework/blob/master/README.md)
+[Click here to check the code](https://github.com/Kulshanperera/SeleniumFramework/tree/master)
 
 
 
